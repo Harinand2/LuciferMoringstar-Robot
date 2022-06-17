@@ -65,7 +65,7 @@
         },
         "SUPORT_CHAT": {
             "description": "Backup Support, With out @",
-            "value": "Mo_Tech_YT",
+            "value": "Support group",
             "required": true
         },
         "CHANNELS": {
@@ -74,12 +74,12 @@
         },
         "CREATOR_NAME": {
             "description": "Creator Name eg Muhammed Rk",
-            "value": "Muhammed",
+            "value": "Harinand",
             "required": false
         },
         "CREATOR_USERNAME": {
             "description": "Creator Username Without @",
-            "value": "Pr0fess0r_99",
+            "value": "Harinand2",
             "required": false
         },
         "FILTER_BUTTONS": {
@@ -99,12 +99,12 @@
         },
         "START_MESSAGE": {
             "description": "Start Message Format : {mention} user name",
-            "value": "",
+            "value": "Hi {Mention} I am a autofilterbot for @cinemasZZ",
             "required": false
         },
         "GET_FILECHANNEL": {
             "description": "get files channel id @MT_ID_Bot",
-            "value": "",
+            "value": "100176878306",
             "required": true
         }
     },
