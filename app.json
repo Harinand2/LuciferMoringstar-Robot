@@ -55,7 +55,7 @@
         },
         "AUTH_GROUPS": {
             "description": "ID of groups which bot should work as autofilter, bot can only work in thease groups. If not given , bot can be used in any group.",
-            "value": "",
+            "value": "100162087471",
             "required": false
         },
         "CUSTOM_FILE_CAPTION": {
@@ -99,7 +99,7 @@
         },
         "START_MESSAGE": {
             "description": "Start Message Format : {mention} user name",
-            "value": "Hi {Mention} I am a autofilterbot for @cinemasZZ",
+            "value": "Hi {Mention} I am a autofilterbot for @cinemasZZ. I am controlling by @Harinand2",
             "required": false
         },
         "GET_FILECHANNEL": {
